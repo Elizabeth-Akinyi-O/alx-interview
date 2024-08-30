@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/52c2a813-89f2-4074-86ae-0dde093fbf17)
+
+
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
 
 Usage: nqueens N
