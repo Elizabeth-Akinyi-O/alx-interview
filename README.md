@@ -9,3 +9,4 @@ Projects on Mock Technical Interviews:
 - 0x06. Star Wars API
 - 0x07. Rotate 2D Matrix
 - 0x08. Making Change
+- 0x09. Island Perimeter
