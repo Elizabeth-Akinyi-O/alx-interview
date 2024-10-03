@@ -10,3 +10,4 @@ Projects on Mock Technical Interviews:
 - 0x07. Rotate 2D Matrix
 - 0x08. Making Change
 - 0x09. Island Perimeter
+- 0x0A. Prime Game
