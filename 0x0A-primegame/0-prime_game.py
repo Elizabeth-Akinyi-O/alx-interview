@@ -1,4 +1,11 @@
+#!/usr/bin/python3
+"""
+Implements Prime Game
+"""
+
+
 def isWinner(x, nums):
+    """ Returns the winner in a prime game. """
     def sieve_of_eratosthenes(n):
         """Helper function to find all prime numbers up to
     n using the Sieve of Eratosthenes."""
